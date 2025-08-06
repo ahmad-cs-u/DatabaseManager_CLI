@@ -1,7 +1,7 @@
 # DatabaseManager_CLI
 A database manager created in Java. Performs CRUD operations and has permanent storage
 
-#Functionalities
+# Functionalities
 A user can use the following functionalities:
   1. Create table
   2. Show tables
@@ -12,5 +12,5 @@ A user can use the following functionalities:
   7. Update from table
   8. Help (For correct syntax)
 
-#Note:
+# Note:
 This wass my semester project. A GUI version of this will be made as well
