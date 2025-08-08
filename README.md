@@ -1,5 +1,7 @@
 # DatabaseManager_CLI
-A database manager created in Java. Performs CRUD operations and has permanent storage
+A lightweight Java-based database helper class designed to simplify data management in applications.
+This class handles core database functionalities such as establishing connections, executing queries, and managing results with a clean, reusable API.
+Basic Error handling and CRUD operations have been implemented. Open to more suggestions. Thanks
 
 # Functionalities
 A user can use the following functionalities:
